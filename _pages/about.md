@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor with the Department of Mathematical Sciences at Eastern New Mexico University (ENMU). I received my Ph.D. degree in Electrical Engineering from University at Buffalo in 2024. I focus on research and technology transfer in space-air-ground networking, new spectrum technologies and software and testbed design for future networks. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am an Assistant Professor with the Department of Mathematical Sciences at Eastern New Mexico University (ENMU). I received my Ph.D. degree in Electrical Engineering from University at Buffalo in 2024. I focus on research and technology transfer in space-air-ground networking, new spectrum technologies and software and testbed design for future networks. 
 
+<!--
+I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
+
+<span class='anchor' id='news'></span>
 
 # News
 - <span style="color:red;">Sept. 2024</span>: Our work on UnionLabs, "Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds," will be presented at the 18th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH'24), colocated with ACM MobiCom 2024 in Washington, D.C. in November. 
