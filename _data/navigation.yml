@@ -12,8 +12,8 @@ main:
   - title: "Service"
     url: "/#service"
 
-  - title: "Teaching Experience"
-    url: "/#teaching-experience"
+  - title: "Teaching"
+    url: "/#teaching"
 
   - title: "Links"
     url: "/#links"
