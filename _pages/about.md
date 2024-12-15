@@ -66,4 +66,12 @@ My research interest includes neural machine translation and computer vision. I 
 - Other Journals: Journal of testing and evaluation
 - Conferences: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
 
-# Teaching
+# Teaching Experience
+## Eastern New Mexico University
+- EET241: Logic Circuits, Fall 2024
+- EET302: Industrial Electronics, Fall 2024
+- EET472: Introduction to Embedded System, Fall 2024
+## University at Buffalo
+- EE459/559: Programmable Networks, Spring 2020
+- EE310: Electronic Devices and Circuits I, Fall 2019
+- EE202: Circuit Analysis, Fall 2019
