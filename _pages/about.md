@@ -23,8 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="color:red;">Sept. 2024</span>: Our work on UnionLabs, "Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds," will be presented at the 18th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH'24), colocated with ACM MobiCom 2024 in Washington, D.C. in November. 
 
 # Publications 
 
