@@ -64,8 +64,8 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 
-$text-color                 : $black;        // Modify the text color
-$border-color               : $light-gray;   // Modify the border color
+$text-color                 : $Charcoal;        // J.Hu: Modify the text color
+$border-color               : $light-gray;      // J.Hu: Modify the border color
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -84,7 +84,7 @@ $github-color               : #171516;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
+// $linkedin-color             : #007bb6;
 $pinterest-color            : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
@@ -95,8 +95,10 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-$orcid-color                : #A6CE39;
-$address-color              : #4285F4;
+
+$linkedin-color             : #171516;    // J.Hu
+$orcid-color                : #A6CE39;    // J.Hu
+$address-color              : #4285F4;    // J.Hu
 
 /* links */
 $link-color                 : $info-color;
