@@ -43,6 +43,8 @@ My research interest includes new spectrum technologies and testbed for future n
 </div>
 -->
 
+<img src="docs/screenshot.png" width="100%"/>
+
 ## Journal and Magazines
 - M. McManus, Y. Cui, J. Zhang, **J. Hu**, S. K. Moorthy, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges," **Elsevier Journal of Computer Networks**, August 2023.  [[pdf]](https://github.com/JiangqiHu/JiangqiHu.github.io/blob/main/docs/DT_Max.pdf) [[bibtex]](blob/main/docs/DT_Max_bib.pdf)
 - **J. Hu**, Z. Zhao, M. McManus, S. K. Moorthy, Y. Cui, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "NeXT: Architecture, Prototyping and Measurement of a Software-Defined Testing Framework for Integrated RF Network Simulation, Experimentation and Optimization," **Elsevier Journal of Computer Communications**, August 2023.  [[pdf]](https://github.com) [[bibtex]](https://github.com)
