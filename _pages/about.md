@@ -61,10 +61,10 @@ My research interest includes neural machine translation and computer vision. I 
 # Service
 
 ## Reviewer Activity
-- IEEE Journals: IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, EEE JSAC Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing
-- Elsevier Journals: Elsevier Journal on Computer Networks 
-- Other Journals: Journal of testing and evaluation
-- Conferences: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
+- **IEEE Journals**: IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, EEE JSAC Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing
+- **Elsevier Journals**: Elsevier Journal on Computer Networks 
+- **Other Journals**: Journal of testing and evaluation
+- **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
 
 # Teaching Experience
 ## Eastern New Mexico University
