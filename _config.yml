@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiangqi Hu"
+title                    : "Assistant Professor"
 description              : "Assistant Professor"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "JiangqiHu/JiangqiHu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

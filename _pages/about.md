@@ -90,4 +90,5 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # Links
-- <a href="https://engineering.buffalo.edu/ee.html">[Electrical Engineering@University at Buffalo]
+- <a href="https://www.enmu.edu/academics/degrees-programs/undergraduate-degree/bachelor/bachelors-electronics-engineering-technology">Electronics Engineering Technology@Eastern New Mexico University
+- <a href="https://engineering.buffalo.edu/ee.html">Electrical Engineering@University at Buffalo
