@@ -121,8 +121,9 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
+  (orcid, $orcid-color),
   (linkedin, $linkedin-color);
-  (orcid, $orcid-color)
+
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
