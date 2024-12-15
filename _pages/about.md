@@ -85,3 +85,9 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - EE459/559: Programmable Networks, Spring 2020
 - EE310: Electronic Devices and Circuits I, Fall 2019
 - EE202: Circuit Analysis, Fall 2019
+
+
+<span class='anchor' id='news'></span>
+
+# Links
+- <a href="https://engineering.buffalo.edu/ee.html">[Electrical Engineering@University at Buffalo]
