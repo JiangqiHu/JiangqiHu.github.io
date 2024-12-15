@@ -62,10 +62,8 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 
-// Modify the text color
-$text-color                 : $black;
-
-$border-color               : $gray;
+$text-color                 : $black;        // Modify the text color
+$border-color               : $light-gray;   // Modify the border color
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -96,7 +94,7 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 $orcid-color                : #A6CE39;
-$address-color              :
+$address-color              : #4285F4;
 
 /* links */
 $link-color                 : $info-color;
