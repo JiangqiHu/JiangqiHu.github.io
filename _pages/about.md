@@ -71,6 +71,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 ## TPC Member
 - IEEE CCNC, 2025
 - IEEE ROBOCOM, 2025
+- IEEE MASS, 2025
 
 ## Reviewer
 - **IEEE Journals**: IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, EEE JSAC Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing
