@@ -83,8 +83,11 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 
 # Teaching Experience
 ## Eastern New Mexico University
+- EET237: Semiconductor Devices I, Spring 2025
 - EET241: Logic Circuits, Fall 2024
+- EET242: Sequential Circuits and Applications, Spring 2025
 - EET302: Industrial Electronics, Fall 2024
+- EET340: Introduction to Computer Organization and Architecture, Spring 2025
 - EET472: Introduction to Embedded System, Fall 2024
 
 ## University at Buffalo
