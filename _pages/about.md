@@ -26,7 +26,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # News
-- <span style="color:red;">Sept. 2024</span>: Our work on UnionLabs, "Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds," will be presented at the 18th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH'24), colocated with ACM MobiCom 2024 in Washington, D.C. in November. 
+- <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
 
 <span class='anchor' id='publications'></span>
 
