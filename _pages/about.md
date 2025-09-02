@@ -69,7 +69,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 # Service
 
 ## TPC Member
-- IEEE CCNC, 2025
+- IEEE CCNC, 2025, 2026
 - IEEE ROBOCOM, 2025
 - IEEE MASS, 2025
 
@@ -84,11 +84,12 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 # Teaching Experience
 ## Eastern New Mexico University
 - EET237: Semiconductor Devices I, Spring 2025
-- EET241: Logic Circuits, Fall 2024
+- EET241: Logic Circuits, Fall 2024，Fall 2025
 - EET242: Sequential Circuits and Applications, Spring 2025
-- EET302: Industrial Electronics, Fall 2024
+- EET302: Industrial Electronics, Fall 2024，Fall 2025
+- EET337: Semiconductor Devices II, Fall 2025
 - EET340: Introduction to Computer Organization and Architecture, Spring 2025
-- EET472: Introduction to Embedded System, Fall 2024
+- EET472: Introduction to Embedded System, Fall 2024，Fall 2025
 
 ## University at Buffalo
 - EE459/559: Programmable Networks, Spring 2020
