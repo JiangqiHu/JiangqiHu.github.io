@@ -74,7 +74,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - IEEE MASS, 2025
 
 ## Reviewer
-- **IEEE Journals**: IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, EEE JSAC Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing
+- **IEEE Journals**: IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, EEE JSAC Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing, IEEE Transactions on Consumer Electronics
 - **Elsevier Journals**: Elsevier Journal on Computer Networks 
 - **Other Journals**: Journal of testing and evaluation
 - **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
