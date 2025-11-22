@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -107,7 +107,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 10px;
-  min-width: 120px;
+  min-width: 180px;
   // padding-right: 25px;
   line-height: 1;
 
