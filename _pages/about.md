@@ -26,6 +26,8 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # News
+- <span style="color:red;">Nov. 2025</span>: My advised student, Brandon Figueroa Ugalde, presented our work, “Robust Reinforcement Learning for UAV Deployment in Noisy Environments,” at the New Mexico Research Symposium. 
+
 - <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
 
 <span class='anchor' id='publications'></span>
