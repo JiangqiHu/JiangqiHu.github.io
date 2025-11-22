@@ -92,7 +92,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 200px;       //  JH: original： 175px
     min-width: 75px;
     border-radius: 50%;
 
@@ -107,7 +107,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 10px;
-  min-width: 180px;
+  min-width: 180px;         //  JH: original： 120px
   // padding-right: 25px;
   line-height: 1;
 
