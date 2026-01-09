@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiangqi Hu"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.PNG"
   bio              : "Eastern New Mexico University"
   location         : "New Mexico, US"
   employer         : # "Eastern New Mexico University"
