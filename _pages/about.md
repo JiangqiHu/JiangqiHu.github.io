@@ -26,7 +26,10 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # News
-- <span style="color:red;">Nov. 2025</span>: My advised student, Brandon Figueroa Ugalde, presented our work, “Robust Reinforcement Learning for UAV Deployment in Noisy Environments,” at the New Mexico Research Symposium. 
+
+- <span style="color:red;">Feb. 2026</span>: I am honored to be invited to serve as the Demonstration Co-Chair for IEEE CCNC 2027.
+
+- <span style="color:red;">Nov. 2025</span>: My mentee, Brandon Figueroa Ugalde, presented our work, “Robust Reinforcement Learning for UAV Deployment in Noisy Environments,” at the New Mexico Research Symposium. 
 
 - <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
 
@@ -69,6 +72,9 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='service'></span>
 
 # Service
+
+## Organizing Committee
+- Demonstration Co-Chair, IEEE Consumer Communications and Networking Conference (CCNC), 2027.
 
 ## TPC Member
 - IEEE INFOCOM (Poster Session), 2026
