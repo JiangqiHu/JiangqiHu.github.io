@@ -75,17 +75,19 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - Demonstration Co-Chair, IEEE Consumer Communications and Networking Conference (CCNC), 2027.
 
 ## TPC Member
-- IEEE INFOCOM (Poster Session), 2026
+- Technical program committee and reviewer service for conferences and journals in electrical engineering
+<!-- - IEEE INFOCOM (Poster Session), 2026
 - IEEE MASS, 2025
 - IEEE CCNC, 2025, 2026
-- IEEE ROBOCOM, 2025
+- IEEE ROBOCOM, 2025 -->
 
 ## Reviewer
-- **IEEE Journals**: IEEE Transactions on Networking, IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing, IEEE Transactions on Consumer Electronics
+- Reviewer for academic journals and conferences in electrical engineering and communication systems.
+<!-- - **IEEE Journals**: IEEE Transactions on Networking, IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing, IEEE Transactions on Consumer Electronics
 - **Elsevier Journals**: Computer Networks (COMNET)
 - **Spring Nature**: Wireless Networks, The Journal of Supercomputing, Wireless Personal Communications 
 - **Other Journals**: Journal of testing and evaluation
-- **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
+- **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC -->
 
 <span class='anchor' id='teaching'></span>
 
