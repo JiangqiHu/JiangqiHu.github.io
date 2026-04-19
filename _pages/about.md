@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor with the Department of Mathematical Sciences at Eastern New Mexico University (ENMU). I received my Ph.D. degree in Electrical Engineering from University at Buffalo in 2024. I focus on research and technology transfer in space-air-ground networking, new spectrum technologies and software and testbed design for future networks. 
+<!-- I am an Assistant Professor with the Department of Mathematical Sciences at Eastern New Mexico University (ENMU). I received my Ph.D. degree in Electrical Engineering from University at Buffalo in 2024. I focus on research and technology transfer in space-air-ground networking, new spectrum technologies and software and testbed design for future networks.  -->
+
+I am an Assistant Professor in the Department of Mathematical Sciences at Eastern New Mexico University. I received my Ph.D. in Electrical Engineering from the University at Buffalo in 2024. My work includes teaching undergraduate courses in Electronics Engineering Technology and conducting research in communication systems, signal processing, and engineering applications.
 
 <!--
 I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -29,13 +31,9 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 
 - <span style="color:red;">Feb. 2026</span>: I am honored to be invited to serve as the Demonstration Co-Chair for IEEE CCNC 2027.
 
-- <span style="color:red;">Nov. 2025</span>: My mentee, Brandon Figueroa Ugalde, presented our work, “Robust Reinforcement Learning for UAV Deployment in Noisy Environments,” at the New Mexico Research Symposium. 
-
-- <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
-
 <span class='anchor' id='publications'></span>
 
-# Publications 
+# Selected Publications  
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -51,23 +49,23 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 </div>
 -->
 
-## Journal and Magazines
-- M. McManus, Y. Cui, J. Zhang, **J. Hu**, S. K. Moorthy, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges," **Elsevier Journal of Computer Networks**, August 2023. <a href="files/DT_Max.pdf">[pdf]<a href="files/DT_Max_bib.txt">[bib] 
+<!-- ## Journal and Magazines -->
+<!-- - M. McManus, Y. Cui, J. Zhang, **J. Hu**, S. K. Moorthy, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges," **Elsevier Journal of Computer Networks**, August 2023. <a href="files/DT_Max.pdf">[pdf]<a href="files/DT_Max_bib.txt">[bib]  -->
 - **J. Hu**, Z. Zhao, M. McManus, S. K. Moorthy, Y. Cui, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "NeXT: Architecture, Prototyping and Measurement of a Software-Defined Testing Framework for Integrated RF Network Simulation, Experimentation and Optimization," **Elsevier Journal of Computer Communications**, August 2023.  <a href="files/NeXT_Journal.pdf">[pdf]<a href="files/NeXT_Journal_bib.txt">[bib] 
-- **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs in the 6 GHz Band," **IEEE/ACM Transactions on Networking**, May 2023.  <a href="files/SwarmShare_Journal.pdf">[pdf] <a href="files/SwarmShare_Journal_bib.txt">[bib] 
+<!-- - **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs in the 6 GHz Band," **IEEE/ACM Transactions on Networking**, May 2023.  <a href="files/SwarmShare_Journal.pdf">[pdf] <a href="files/SwarmShare_Journal_bib.txt">[bib]  -->
 - **J. Hu**, Q. Yang, "Dynamic energy-efficient resource allocation in wireless powered communication network," **Wireless Networks**, vol. 25, no. 6, pp. 3005-3018, Aug. 2019. <a href="files/DEERA.pdf">[pdf]<a href="files/DEERA_bib.txt">[bib] 
 - H. Wang, **J. Hu**, and W. Niu, "RC performance analysis based on model optimization with the aid of network calculus," **Photonic Network Communications**, vol. 37, no. 2, pp. 253-260, Apr. 2019.  <a href="files/RCPABMOANC.pdf">[pdf]<a href="files/RCPABMOANC_bib.txt">[bib] 
 
-## Conference Papers
-- M. McManus, T. Rinchen, Z. Guan, A. Dey, S. Thota, J. Z. Zhang, **J. Hu**, X. L. Wang, M. Ji, N. Mastronarde, E. S. Bentley, and M. Medley, “Cloud-based federation framework and prototype for open, scalable, and shared access to nextg and iot testbeds,” in Proc. of **Annual International Conference on Mobile Computing and Networking (ACM MobiCom)**, New York, USA Nov. 2024. <a href="files/MMTestbed.pdf">[pdf]<a href="files/MMTestbed_bib.txt">[bib]
-- M. McManus, T. Rinchen, S. M. Suhail, S. Santhinivas, A. Dey, S. Pagidimarri, Y. Cui, **J. Hu**, J. Z. Zhang, X. L. Wang, M. Ji, N. Mastronarde, and Z. Guan, "Demo Abstract: UnionLabs: AWS-based Remote Access and Sharing of NextG and IoT Testbeds," in Proc. of **IEEE International Conference on Computer Communications (INFOCOM)**, Vancouver, Canada, May 2024.  <a href="files/UnionLabs.pdf">[pdf]<a href="files/UnionLabs_bib.txt">[bib] 
-- N. Mishra, Y. V. Iyengar, A. C. Raikar, N. Thomas, S. Krishna Moorthy, **J. Hu**, Z. Zhao, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Demo: Scaling Out srsRAN Through Interfacing Wirelessly srsENB with srsEPC," in Proc. of **IEEE International Conference on Computer Communications (INFOCOM)**, New York area, USA, May 17-20, 2023.  <a href="files/Demo.pdf">[pdf]<a href="files/Demo_bib.txt">[bib] 
-- **J. Hu**, M. McManus, S. Krishna Moorthy, Y. Cui, Z. Guan, N. Mastronarde, E. S. Bentley, and M. Medley, "NeXT: A Software-Defined Testbed with Integrated Optimization, Simulation and Experimentation," in Proc. of **IEEE FNWF Workshop on Federated Testbed as a Service for Future Networks: Challenges & the State of the Art, Montreal**, Canada, October 2022.  <a href="files/next.pdf">[pdf]<a href="files/next_bib.txt">[bib]<a href="https://www.youtube.com/watch?v=6j-aJmswhkQ">[video]  <span style="color:red;">(Best Paper First Runner-up Award)</span> 
-- **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "SwarmShare: Mobility-Resilient Spectrum Sharing for Swarm UAV Networking in the 6 GHz Band," in Proc. of **IEEE International Conference on Sensing, Communication and Networking (SECON)**, Virtual Conference, July 2021.  <a href="files/swarmshare.pdf">[pdf]<a href="files/swarmshare_bib.txt">[bib] 
-- **J. Hu**, Q. Yang and K. S. Kwak,"Energy efficiency and delay tradeoff in wireless powered communication networks," in Proc. of **IEEE International Symposium on Communications and Information Technologies (ISCIT)**, Cairns, QLD, Australia, Sept. 2017.  <a href="files/EEDT.pdf">[pdf]<a href="files/EEDT_bib.txt">[bib] 
+<!-- ## Conference Papers -->
+<!-- - M. McManus, T. Rinchen, Z. Guan, A. Dey, S. Thota, J. Z. Zhang, **J. Hu**, X. L. Wang, M. Ji, N. Mastronarde, E. S. Bentley, and M. Medley, “Cloud-based federation framework and prototype for open, scalable, and shared access to nextg and iot testbeds,” in Proc. of **Annual International Conference on Mobile Computing and Networking (ACM MobiCom)**, New York, USA Nov. 2024. <a href="files/MMTestbed.pdf">[pdf]<a href="files/MMTestbed_bib.txt">[bib] -->
+<!-- - M. McManus, T. Rinchen, S. M. Suhail, S. Santhinivas, A. Dey, S. Pagidimarri, Y. Cui, **J. Hu**, J. Z. Zhang, X. L. Wang, M. Ji, N. Mastronarde, and Z. Guan, "Demo Abstract: UnionLabs: AWS-based Remote Access and Sharing of NextG and IoT Testbeds," in Proc. of **IEEE International Conference on Computer Communications (INFOCOM)**, Vancouver, Canada, May 2024.  <a href="files/UnionLabs.pdf">[pdf]<a href="files/UnionLabs_bib.txt">[bib]  -->
+<!-- - N. Mishra, Y. V. Iyengar, A. C. Raikar, N. Thomas, S. Krishna Moorthy, **J. Hu**, Z. Zhao, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Demo: Scaling Out srsRAN Through Interfacing Wirelessly srsENB with srsEPC," in Proc. of **IEEE International Conference on Computer Communications (INFOCOM)**, New York area, USA, May 17-20, 2023.  <a href="files/Demo.pdf">[pdf]<a href="files/Demo_bib.txt">[bib]  -->
+<!-- - **J. Hu**, M. McManus, S. Krishna Moorthy, Y. Cui, Z. Guan, N. Mastronarde, E. S. Bentley, and M. Medley, "NeXT: A Software-Defined Testbed with Integrated Optimization, Simulation and Experimentation," in Proc. of **IEEE FNWF Workshop on Federated Testbed as a Service for Future Networks: Challenges & the State of the Art, Montreal**, Canada, October 2022.  <a href="files/next.pdf">[pdf]<a href="files/next_bib.txt">[bib]<a href="https://www.youtube.com/watch?v=6j-aJmswhkQ">[video]  <span style="color:red;">(Best Paper First Runner-up Award)</span>  -->
+<!-- - **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "SwarmShare: Mobility-Resilient Spectrum Sharing for Swarm UAV Networking in the 6 GHz Band," in Proc. of **IEEE International Conference on Sensing, Communication and Networking (SECON)**, Virtual Conference, July 2021.  <a href="files/swarmshare.pdf">[pdf]<a href="files/swarmshare_bib.txt">[bib]  -->
+<!-- - **J. Hu**, Q. Yang and K. S. Kwak,"Energy efficiency and delay tradeoff in wireless powered communication networks," in Proc. of **IEEE International Symposium on Communications and Information Technologies (ISCIT)**, Cairns, QLD, Australia, Sept. 2017.  <a href="files/EEDT.pdf">[pdf]<a href="files/EEDT_bib.txt">[bib]  -->
 
-## Ph.D. Dissertation
-- Intelligent Spectrum Coexistence in UAV-Enabled NextG Networks: Algorithms and Testing Framework, June. 2024.  <a href="Jiangqi_Dissertation.pdf">[pdf] 
+<!-- ## Ph.D. Dissertation -->
+<!-- - Intelligent Spectrum Coexistence in UAV-Enabled NextG Networks: Algorithms and Testing Framework, June. 2024.  <a href="Jiangqi_Dissertation.pdf">[pdf]  -->
 
 <span class='anchor' id='service'></span>
 
