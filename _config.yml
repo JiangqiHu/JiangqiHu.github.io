@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiangqi Hu"
   avatar           : "images/profile.PNG"
-  bio              : "Eastern New Mexico University"
+  bio              : # "Eastern New Mexico University"
   location         : "New Mexico, US"
-  employer         : # "Eastern New Mexico University"
+  employer         : "Eastern New Mexico University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PcebAfcAAAAJ"
   email            : "jiangqi.hu@enmu.edu"
