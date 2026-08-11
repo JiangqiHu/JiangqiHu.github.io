@@ -51,7 +51,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 </div>
 -->
 
-## Journal and Magazines -->
+## Journal and Magazines 
 - **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs in the 6 GHz Band," **IEEE/ACM Transactions on Networking**, vol. 31, no. 6, pp. 3128-3142, Dec. 2023.  <a href="files/SwarmShare_Journal.pdf">[pdf] <a href="files/SwarmShare_Journal_bib.txt">[bib] 
 - M. McManus, Y. Cui, J. Zhang, **J. Hu**, S. K. Moorthy, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges," **Elsevier Journal of Computer Networks**, vol. 236, November 2023. <a href="files/DT_Max.pdf">[pdf]<a href="files/DT_Max_bib.txt">[bib] 
 - **J. Hu**, Z. Zhao, M. McManus, S. K. Moorthy, Y. Cui, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "NeXT: Architecture, Prototyping and Measurement of a Software-Defined Testing Framework for Integrated RF Network Simulation, Experimentation and Optimization," **Elsevier Journal of Computer Communications**, vol. 210, pp 342-355, August 2023.  <a href="files/NeXT_Journal.pdf">[pdf]<a href="files/NeXT_Journal_bib.txt">[bib] 
