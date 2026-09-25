@@ -29,7 +29,9 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 
 # News
 
-- <span style="color:red;">July. 2026</span>: I was honored to receive a 2026–2027 Faculty Research and Instructional Development (FRID) Grant from Eastern New Mexico University.
+- <span style="color:red;">Sep. 2026</span>:  My undergraduate research student, Orran Hart, was selected as a 1Roo Undergraduate Scholar for Fall 2026 to work on robust UAV trajectory optimization under user-location uncertainty.
+
+- <span style="color:red;">July 2026</span>: I was honored to receive a 2026–2027 Faculty Research and Instructional Development (FRID) Grant from Eastern New Mexico University.
 
 - <span style="color:red;">Feb. 2026</span>: I am honored to be invited to serve as the Demonstration Co-Chair for IEEE CCNC 2027.
 
